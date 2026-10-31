@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "1017503") (type "KiCad") (uri "${KIPRJMOD}/libraries/1017503/1017503.pretty") (options "") (descr ""))
+	(lib (name "1017505") (type "KiCad") (uri "${KIPRJMOD}/libraries/1017505/1017505.pretty") (options "") (descr ""))
+)
